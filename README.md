@@ -32,7 +32,7 @@ The dataset contains PhonePe transaction records including:
 - Failed transaction reasons  
 - Date-level filtering  
 
-![Overall Dashboard](screenshots/overall-1.png)
+![Overall Dashboard](Screenshots/overall-1.png)
 
 ---
 
@@ -41,7 +41,7 @@ The dataset contains PhonePe transaction records including:
 - Success vs failure distribution  
 - Failure reason analysis  
 
-![Insurance Dashboard](screenshots/Insurance-2.png)
+![Insurance Dashboard](Screenshots/Insurance-2.png)
 
 ---
 
@@ -50,7 +50,7 @@ The dataset contains PhonePe transaction records including:
 - Loan category comparison  
 - Failed transaction breakdown  
 
-![Loans Dashboard](screenshots/Loans-3.png)
+![Loans Dashboard](Screenshots/Loans-3.png)
 
 ---
 
@@ -58,7 +58,7 @@ The dataset contains PhonePe transaction records including:
 - Monthly transaction trend  
 - Success vs failure comparison  
 
-![Loans Dashboard](screenshots/Money-transfer-4.png)
+![Loans Dashboard](Screenshots/Money-transfer-4.png)
 
 ---
 
@@ -66,7 +66,7 @@ The dataset contains PhonePe transaction records including:
 - Recharge vs bill payment comparison  
 - Monthly transaction volume  
 
-![Loans Dashboard](screenshots/Bill&Recharge-5.png)
+![Loans Dashboard](Screenshots/Bill&Recharge-5.png)
 
 
 ## Key Insights
